@@ -39,7 +39,7 @@ function App() {
         />
         <Editor
           language="javascript"
-          displayName="JAVA SCRIPT"
+          displayName="JS"
           value={js}
           onChange={setJs}
         />
